@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568447668840",
+    "firebase_url": "https://conductive-bot-338515-default-rtdb.firebaseio.com",
+    "project_id": "conductive-bot-338515",
+    "storage_bucket": "conductive-bot-338515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568447668840:android:10d04413f9d700384c21dd",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568447668840-470t956mmchsfgrg0a1ml3etb2cjltp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs4jiy7ZxYSwFbT0jTDgTEDlsYIDsPN9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568447668840-470t956mmchsfgrg0a1ml3etb2cjltp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
